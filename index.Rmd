@@ -1,0 +1,7 @@
+---
+title: "website"
+author: "Miles, Jenna"
+date: "2024-09-18"
+output: html_document
+---
+![wood thrush](https://www.allaboutbirds.org/guide/assets/photo/67458541-480px.jpg)
