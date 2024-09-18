@@ -1,0 +1,12 @@
+output_dir: "."
+navbar:
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Miles"
+      href: miles- dhalwala.html
+    - text: "Jenna"
+      href: Jenna.html
+      
+      
+      
