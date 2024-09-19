@@ -1,0 +1,11 @@
+---
+title: "Jenna Brewer"
+output: html_document
+---
+
+# List:
+
+- From: Grand Rapids, Michigan and went to school in the Upper Peninsula of Michigan
+- Research: I am studying bird responses to agroforestry practices in Costa Rica
+- Hobbies: running, going to the beach, arting and eating good food
+
